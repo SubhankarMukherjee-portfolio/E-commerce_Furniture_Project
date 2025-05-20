@@ -2,7 +2,7 @@
 This dataset comprises 2,000 entries scraped from AliExpress, detailing a wide range of furniture products. It includes essential sales metrics and product information such as pricing, shipping details, discount amounts, and order quantities. The dataset provides a structured overview of the online furniture retail market, capturing key attributes like product category, number of orders, and listing prices. It serves as a valuable resource for understanding product availability and the commercial landscape of e-commerce platforms, particularly within the home and living segment.
 
 ## Dataset used
-Dataset =
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/E-commerce_Furniture_Project/blob/main/ecommerce_furniture_dataset.csv"
 
 
 ## Project Objective
@@ -15,7 +15,7 @@ Dataset =
 7) To provide data-driven recommendations for inventory, pricing, and promotional strategies.
 
 ## SQL File (MySQL)
-SQL File =
+SQL File = "https://github.com/SubhankarMukherjee-portfolio/E-commerce_Furniture_Project/blob/main/furniture.sql"
 
 ## Questions solved
 1) Find the total number of orders.
